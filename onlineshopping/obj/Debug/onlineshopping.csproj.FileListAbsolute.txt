@@ -1,0 +1,7 @@
+D:\MS DYNAMICS\onlineshopping\onlineshopping\obj\Debug\onlineshopping.csprojAssemblyReference.cache
+D:\MS DYNAMICS\onlineshopping\onlineshopping\obj\Debug\onlineshopping.csproj.CoreCompileInputs.cache
+D:\MS DYNAMICS\onlineshopping\onlineshopping\bin\Debug\onlineshopping.exe.config
+D:\MS DYNAMICS\onlineshopping\onlineshopping\bin\Debug\onlineshopping.exe
+D:\MS DYNAMICS\onlineshopping\onlineshopping\bin\Debug\onlineshopping.pdb
+D:\MS DYNAMICS\onlineshopping\onlineshopping\obj\Debug\onlineshopping.exe
+D:\MS DYNAMICS\onlineshopping\onlineshopping\obj\Debug\onlineshopping.pdb
